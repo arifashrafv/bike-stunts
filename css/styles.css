@@ -1,0 +1,53 @@
+.corousel-img {
+	width: 100%;
+}
+.bodybg {
+	background-color: grey;
+}
+.para  {
+	color: white;
+}
+.newimg {
+	margin-top: 100px;
+}
+.logbdy {
+	background-color: grey;
+}
+.signbdy {
+	background-color: grey;
+}
+.hmbdy {
+	background-color: silver;
+}
+.galbdy {
+	background-color: grey;
+}
+.evtbdy {
+	background-color: grey;
+
+}
+h4 {
+	color: blue;
+}
+.addbdy {
+	background-color: grey;
+	background-image: url("https://s-media-cache-ak0.pinimg.com/originals/ec/7c/e7/ec7ce75eab211cdb9bfe299338b7fcca.jpg");
+}
+.new {
+	border: solid;
+	border-color: silver;
+}
+.adm {
+	background-color: grey;
+	background-image: url("http://i.vimeocdn.com/video/442345962_1280x720.jpg");
+}
+.btn-lg {
+	margin-top: 20px;
+}
+.thumbnail {
+	height: 350px;
+	width: 350px;
+}
+.admind {
+	color: red;
+}
